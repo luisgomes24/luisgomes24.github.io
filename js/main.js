@@ -544,4 +544,4 @@ setInterval(() => {
         nextSlide();
         timer = _timer; // reset timer
     }
-}, 500); // 1sec
+}, 1000); // 1sec
